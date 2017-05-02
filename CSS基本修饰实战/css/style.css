@@ -1,0 +1,17 @@
+body{
+	font-size:12px;
+	font-family:Arial;
+	color: #303030;
+	line-height: 2em
+}
+a{text-decoration: none;color: #000}
+a:hover{text-decoration:underline;color: #727272}
+.a{
+	color:#fff
+}
+.a:hover{
+	color: #b9f605
+}
+#a{font-size: 14px;
+	color: #b9f605
+}
